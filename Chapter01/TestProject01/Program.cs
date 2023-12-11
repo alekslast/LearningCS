@@ -9,6 +9,7 @@ int energyAmount    = random.Next(0, 101);
 
 
 
+
 // Main Logic
 WriteLine("");
 WriteLine("Welcome to SimpleLifeSimulator");
@@ -23,19 +24,19 @@ while (proceed)
 
     switch(procedure)
     {
-        case 1:
+        case (int)UserState.Eating:
             Eat();
             EnergyCheck();
             break;
-        case 2:
+        case (int)UserState.Working:
             GoToWork();
             EnergyCheck();
             break;
-        case 3:
+        case (int)UserState.Sleeping:
             Sleep();
             EnergyCheck();
             break;
-        case 4:
+        case (int)UserState.FuckingIt:
             WriteLine("Yeah, you better take a break! CU!");
             proceed = false;
             break;
@@ -56,6 +57,8 @@ int Eat()
     ReadLine();
     int refill = random.Next(10, 21);
     energyAmount += refill;
+    WriteLine($"You ate and gained {refill} energy points.");
+    WriteLine("");
     return energyAmount;
 }
 // -------------------------------------------
@@ -67,6 +70,8 @@ int Sleep()
     ReadLine();
     int refill = random.Next(20, 81);
     energyAmount += refill;
+    WriteLine($"You slept and gained {refill} energy points.");
+    WriteLine("");
     return energyAmount;
 }
 // -------------------------------------------
@@ -78,6 +83,8 @@ int GoToWork()
     ReadLine();
     int consume = random.Next(10, 51);
     energyAmount -= consume;
+    WriteLine($"You've lost {consume} energy points doing your job.");
+    WriteLine();
     return energyAmount;
 }
 // -------------------------------------------
@@ -87,13 +94,15 @@ int AskTheUser()
     WriteLine("What do you do today?");
     WriteLine("1 - Eat\n2 - Go to work\n3 - Go back to sleep\n4 - F@ck it!");
     string? userCommand = ReadLine();
-    while (userCommand == null)
+    while (userCommand == "")
     {
-        WriteLine("What do you do today?");
+        WriteLine("Missing a command. Try again...");
+        WriteLine("");
+        WriteLine("What do you do next?");
         WriteLine("1 - Eat\n2 - Go to work\n3 - Go back to sleep\n4 - F@ck it!");
         userCommand = ReadLine();
     }
-    return Convert.ToInt32(userCommand);
+    return Int32.Parse(userCommand!) - 1;
 }
 // -------------------------------------------
 
@@ -145,3 +154,11 @@ bool EnergyCheck()
         return false;
 }
 // -------------------------------------------
+
+enum UserState
+{
+    Eating,
+    Working,
+    Sleeping,
+    FuckingIt
+}
