@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\bin\Debug\net8.0\ClassesAndStructures.exe
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\bin\Debug\net8.0\ClassesAndStructures.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\bin\Debug\net8.0\ClassesAndStructures.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\bin\Debug\net8.0\ClassesAndStructures.dll
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\bin\Debug\net8.0\ClassesAndStructures.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\obj\Debug\net8.0\ClassesAndStructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\obj\Debug\net8.0\ClassesAndStructures.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\obj\Debug\net8.0\ClassesAndStructures.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\obj\Debug\net8.0\ClassesAndStructures.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\obj\Debug\net8.0\ClassesAndStructures.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\obj\Debug\net8.0\ClassesAndStructures.dll
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\obj\Debug\net8.0\refint\ClassesAndStructures.dll
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\obj\Debug\net8.0\ClassesAndStructures.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\obj\Debug\net8.0\ClassesAndStructures.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter03\Exercises\ClassesAndStructures\obj\Debug\net8.0\ref\ClassesAndStructures.dll
