@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Polindrome\obj\Debug\net8.0\Polindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Polindrome\obj\Debug\net8.0\Polindrome.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Polindrome\obj\Debug\net8.0\Polindrome.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Polindrome\obj\Debug\net8.0\Polindrome.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Polindrome\obj\Debug\net8.0\Polindrome.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Polindrome\bin\Debug\net8.0\Polindrome.exe
+D:\Development\CsharpProjects\LearningCS\Polindrome\bin\Debug\net8.0\Polindrome.deps.json
+D:\Development\CsharpProjects\LearningCS\Polindrome\bin\Debug\net8.0\Polindrome.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Polindrome\bin\Debug\net8.0\Polindrome.dll
+D:\Development\CsharpProjects\LearningCS\Polindrome\bin\Debug\net8.0\Polindrome.pdb
+D:\Development\CsharpProjects\LearningCS\Polindrome\obj\Debug\net8.0\Polindrome.dll
+D:\Development\CsharpProjects\LearningCS\Polindrome\obj\Debug\net8.0\refint\Polindrome.dll
+D:\Development\CsharpProjects\LearningCS\Polindrome\obj\Debug\net8.0\Polindrome.pdb
+D:\Development\CsharpProjects\LearningCS\Polindrome\obj\Debug\net8.0\Polindrome.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Polindrome\obj\Debug\net8.0\ref\Polindrome.dll
