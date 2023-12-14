@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\bin\Debug\net8.0\TestProject04.exe
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\bin\Debug\net8.0\TestProject04.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\bin\Debug\net8.0\TestProject04.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\bin\Debug\net8.0\TestProject04.dll
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\bin\Debug\net8.0\TestProject04.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\obj\Debug\net8.0\TestProject04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\obj\Debug\net8.0\TestProject04.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\obj\Debug\net8.0\TestProject04.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\obj\Debug\net8.0\TestProject04.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\obj\Debug\net8.0\TestProject04.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\obj\Debug\net8.0\TestProject04.dll
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\obj\Debug\net8.0\refint\TestProject04.dll
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\obj\Debug\net8.0\TestProject04.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\obj\Debug\net8.0\TestProject04.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter04\TestProject04\obj\Debug\net8.0\ref\TestProject04.dll
