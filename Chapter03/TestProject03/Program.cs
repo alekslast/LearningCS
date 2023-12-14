@@ -1,0 +1,6 @@
+﻿enum Proffesion
+{
+    Retailer,
+    Creator,
+}
+
