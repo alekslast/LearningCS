@@ -59,7 +59,7 @@
             Console.WriteLine("");
 
 
-            switch (Int32.Parse(playerOccupation))
+            switch (int.Parse(playerOccupation))
             {
                 case 1:
                     newPlayer.TradingGoods      += 10;
