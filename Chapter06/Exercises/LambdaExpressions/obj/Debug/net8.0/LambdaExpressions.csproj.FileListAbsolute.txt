@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.exe
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.dll
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.dll
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\obj\Debug\net8.0\refint\LambdaExpressions.dll
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter06\Exercises\LambdaExpressions\obj\Debug\net8.0\ref\LambdaExpressions.dll

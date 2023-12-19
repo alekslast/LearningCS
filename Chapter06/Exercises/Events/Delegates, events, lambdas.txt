@@ -1,0 +1,247 @@
+События
+
+События сигнализируют системе о том, что произошло определенное действие. И если нам надо отследить эти действия, 
+то как раз мы можем применять события.
+
+class Account
+{
+    // сумма на счете
+    public int Sum { get; private set; }
+    
+    // в конструкторе устанавливаем начальную сумму на счете
+    public Account(int sum) => Sum = sum;
+
+    // добавление средств на счет
+    public void Put(int sum) => Sum += sum;
+
+    // списание средств со счета
+    public void Take(int sum)
+    {
+        if (Sum >= sum)
+        {
+            Sum -= sum;
+        }
+    }
+}
+
+
+Но что если мы хотим уведомлять пользователя о результатах его операций. Мы могли бы, например, для этого изменить метод Put 
+следующим образом:
+
+public void Put(int sum)    
+{
+    Sum += sum;
+    Console.WriteLine($"На счет поступило: {sum}");
+}
+
+
+
+
+
+Определение и вызов событий
+
+События объявляются в классе с помощью ключевого слова event, после которого указывается тип делегата,
+который представляет событие:
+
+
+delegate void AccountHandler(string message);
+event AccountHandler Notify;
+Notify("Произошло действие");
+
+
+В данном случае вначале определяется делегат AccountHandler, который принимает один параметр типа string. 
+Затем с помощью ключевого слова event определяется событие с именем Notify, которое представляет делегат AccountHandler. 
+Название для события может быть произвольным, но в любом случае оно должно представлять некоторый делегат.
+
+Определив событие, мы можем его вызвать в программе как метод, используя имя события
+
+
+
+Однако при вызове событий мы можем столкнуться с тем, что событие равно null в случае, если для его не определен обработчик. 
+Поэтому при вызове события лучше его всегда проверять на null. Например, так:
+
+if(Notify !=null) Notify("Произошло действие");
+
+
+Или так:
+
+Notify?.Invoke("Произошло действие");
+
+
+
+
+Объединим все вместе и создадим и вызовем событие:
+
+class Account
+{
+    public delegate void AccountHandler(string message);
+    public event AccountHandler? Notify;              // 1.Определение события
+    public Account(int sum) => Sum = sum;
+    public int Sum { get; private set; }
+    public void Put(int sum)
+    {
+        Sum += sum;
+        Notify?.Invoke($"На счет поступило: {sum}");   // 2.Вызов события 
+    }
+    public void Take(int sum)
+    {
+        if (Sum >= sum)
+        {
+            Sum -= sum;
+            Notify?.Invoke($"Со счета снято: {sum}");   // 2.Вызов события
+        }
+        else
+        {
+            Notify?.Invoke($"Недостаточно денег на счете. Текущий баланс: {Sum}"); ;
+        }
+    }
+}
+
+Теперь с помощью события Notify мы уведомляем систему о том, что были добавлены средства и о том, что средства сняты со счета 
+или на счете недостаточно средств.
+
+
+
+
+
+Добавление обработчика события
+
+С событием может быть связан один или несколько обработчиков. Обработчики событий - это именно то, что выполняется при вызове событий. 
+Нередко в качестве обработчиков событий применяются методы. Каждый обработчик событий по списку параметров 
+и возвращаемому типу должен соответствовать делегату, который представляет событие. Для добавления обработчика события 
+применяется операция +=:
+
+Notify += обработчик события;
+
+
+Определим обработчики для события Notify, чтобы получить в программе нужные уведомления:
+
+Account account = new Account(100);
+account.Notify += DisplayMessage;   // Добавляем обработчик для события Notify
+account.Put(20);    // добавляем на счет 20
+Console.WriteLine($"Сумма на счете: {account.Sum}");
+account.Take(70);   // пытаемся снять со счета 70
+Console.WriteLine($"Сумма на счете: {account.Sum}");
+account.Take(180);  // пытаемся снять со счета 180
+Console.WriteLine($"Сумма на счете: {account.Sum}");
+ 
+void DisplayMessage(string message) => Console.WriteLine(message);
+
+
+В данном случае в качестве обработчика используется метод DisplayMessage, который соответствует по списку параметров
+и возвращаемому типу делегату AccountHandler. В итоге при вызове события Notify?.Invoke() будет вызываться метод DisplayMessage,
+которому для параметра message будет передаваться строка, которая передается в Notify?.Invoke(). В DisplayMessage
+просто выводим полученное от события сообщение, но можно было бы определить любую логику.
+
+
+
+
+
+Добавление и удаление обработчиков
+Для одного события можно установить несколько обработчиков и потом в любой момент времени их удалить. Для удаления обработчиков применяется операция -=. Например:
+
+Account account = new Account(100);
+account.Notify += DisplayMessage;       // добавляем обработчик DisplayMessage
+account.Notify += DisplayRedMessage;    // добавляем обработчик DisplayRedMessage
+account.Put(20);    // добавляем на счет 20
+account.Notify -= DisplayRedMessage;     // удаляем обработчик DisplayRedMessage
+account.Put(50);    // добавляем на счет 50
+ 
+void DisplayMessage(string message) => Console.WriteLine(message);
+void DisplayRedMessage(string message)
+{
+    // Устанавливаем красный цвет символов
+    Console.ForegroundColor = ConsoleColor.Red;
+    Console.WriteLine(message);
+
+    // Сбрасываем настройки цвета
+    Console.ResetColor();
+}
+
+
+
+
+Установка в качестве обработчика анонимного метода:
+
+Account acc = new Account(100);
+acc.Notify += delegate (string mes)
+{
+    Console.WriteLine(mes);
+};
+acc.Put(20);
+
+
+
+
+
+Установка в качестве обработчика лямбда-выражения:
+
+Account account = new Account(100);
+account.Notify += message => Console.WriteLine(message);
+account.Put(20);
+
+
+
+Передача данных события
+
+Нередко при возникновении события обработчику события требуется передать некоторую информацию о событии.
+
+
+Например, добавим и в нашу программу новый класс AccountEventArgs со следующим кодом:
+
+class AccountEventArgs
+{
+    // Сообщение
+    public string Message{get;}
+    
+    // Сумма, на которую изменился счет
+    public int Sum {get;}
+    public AccountEventArgs(string message, int sum)
+    {
+        Message = message;
+        Sum = sum;
+    }
+}
+
+
+class Account
+{
+    public delegate void AccountHandler(Account sender, AccountEventArgs e);
+    public event AccountHandler? Notify;
+     
+    public int Sum { get; private set; }
+     
+    public Account(int sum) => Sum = sum;
+     
+    public void Put(int sum)
+    {
+        Sum += sum;
+        Notify?.Invoke(this, new AccountEventArgs($"На счет поступило {sum}", sum));
+    }
+    public void Take(int sum)
+    {
+        if (Sum >= sum)
+        {
+            Sum -= sum;
+            Notify?.Invoke(this, new AccountEventArgs($"Сумма {sum} снята со счета", sum));
+        }
+        else
+        {
+            Notify?.Invoke(this, new AccountEventArgs("Недостаточно денег на счете", sum));
+        }
+    }
+}
+
+
+Account acc = new Account(100);
+acc.Notify += DisplayMessage;
+acc.Put(20);
+acc.Take(70);
+acc.Take(150);
+ 
+void DisplayMessage(Account sender, AccountEventArgs e)
+{
+    Console.WriteLine($"Сумма транзакции: {e.Sum}");
+    Console.WriteLine(e.Message);
+    Console.WriteLine($"Текущая сумма на счете: {sender.Sum}");
+}
