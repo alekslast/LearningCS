@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter07", "Chapter07", "{EB994AB0-7106-48F5-B200-1C8161BAE004}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{43F46CAB-CCA0-4FCB-8BDC-815DF7C12619}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Chapter07\Exercises\Interface\Interface.csproj", "{460FD62F-8B34-46E6-B61A-2CCBA0E87CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460FD62F-8B34-46E6-B61A-2CCBA0E87CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460FD62F-8B34-46E6-B61A-2CCBA0E87CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460FD62F-8B34-46E6-B61A-2CCBA0E87CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460FD62F-8B34-46E6-B61A-2CCBA0E87CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{43F46CAB-CCA0-4FCB-8BDC-815DF7C12619} = {EB994AB0-7106-48F5-B200-1C8161BAE004}
+		{460FD62F-8B34-46E6-B61A-2CCBA0E87CDE} = {43F46CAB-CCA0-4FCB-8BDC-815DF7C12619}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFEDC296-5440-4BA9-B219-15A558AD738D}
+	EndGlobalSection
+EndGlobal

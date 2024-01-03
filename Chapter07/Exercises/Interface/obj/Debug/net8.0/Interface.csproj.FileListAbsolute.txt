@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\obj\Debug\net8.0\Interface.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\bin\Debug\net8.0\Interface.exe
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\bin\Debug\net8.0\Interface.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\bin\Debug\net8.0\Interface.dll
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\bin\Debug\net8.0\Interface.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\obj\Debug\net8.0\Interface.dll
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\obj\Debug\net8.0\refint\Interface.dll
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\obj\Debug\net8.0\Interface.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter07\Exercises\Interface\obj\Debug\net8.0\ref\Interface.dll
