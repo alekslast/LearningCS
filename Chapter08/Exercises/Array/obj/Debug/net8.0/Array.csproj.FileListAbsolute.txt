@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\obj\Debug\net8.0\Array.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\bin\Debug\net8.0\Array.exe
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\bin\Debug\net8.0\Array.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\bin\Debug\net8.0\Array.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\bin\Debug\net8.0\Array.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\obj\Debug\net8.0\Array.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\obj\Debug\net8.0\refint\Array.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\obj\Debug\net8.0\Array.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Array\obj\Debug\net8.0\ref\Array.dll

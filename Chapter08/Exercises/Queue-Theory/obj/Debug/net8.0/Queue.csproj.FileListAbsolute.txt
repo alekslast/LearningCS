@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\bin\Debug\net8.0\Queue.exe
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\bin\Debug\net8.0\Queue.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\bin\Debug\net8.0\Queue.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\bin\Debug\net8.0\Queue.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\bin\Debug\net8.0\Queue.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\obj\Debug\net8.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\obj\Debug\net8.0\Queue.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\obj\Debug\net8.0\Queue.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\obj\Debug\net8.0\Queue.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\obj\Debug\net8.0\Queue.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\obj\Debug\net8.0\Queue.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\obj\Debug\net8.0\refint\Queue.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\obj\Debug\net8.0\Queue.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\obj\Debug\net8.0\Queue.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Queue-Theory\obj\Debug\net8.0\ref\Queue.dll

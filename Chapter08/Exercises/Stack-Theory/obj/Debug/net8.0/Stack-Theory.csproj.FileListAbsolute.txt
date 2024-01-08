@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\bin\Debug\net8.0\Stack-Theory.exe
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\bin\Debug\net8.0\Stack-Theory.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\bin\Debug\net8.0\Stack-Theory.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\bin\Debug\net8.0\Stack-Theory.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\bin\Debug\net8.0\Stack-Theory.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\obj\Debug\net8.0\Stack-Theory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\obj\Debug\net8.0\Stack-Theory.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\obj\Debug\net8.0\Stack-Theory.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\obj\Debug\net8.0\Stack-Theory.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\obj\Debug\net8.0\Stack-Theory.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\obj\Debug\net8.0\Stack-Theory.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\obj\Debug\net8.0\refint\Stack-Theory.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\obj\Debug\net8.0\Stack-Theory.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\obj\Debug\net8.0\Stack-Theory.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-Theory\obj\Debug\net8.0\ref\Stack-Theory.dll

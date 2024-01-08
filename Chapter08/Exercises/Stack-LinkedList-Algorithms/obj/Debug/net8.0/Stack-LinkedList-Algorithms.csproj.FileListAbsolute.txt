@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\obj\Debug\net8.0\Stack-LinkedList-Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\obj\Debug\net8.0\Stack-LinkedList-Algorithms.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\obj\Debug\net8.0\Stack-LinkedList-Algorithms.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\obj\Debug\net8.0\Stack-LinkedList-Algorithms.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\obj\Debug\net8.0\Stack-LinkedList-Algorithms.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\bin\Debug\net8.0\Stack-LinkedList-Algorithms.exe
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\bin\Debug\net8.0\Stack-LinkedList-Algorithms.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\bin\Debug\net8.0\Stack-LinkedList-Algorithms.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\bin\Debug\net8.0\Stack-LinkedList-Algorithms.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\bin\Debug\net8.0\Stack-LinkedList-Algorithms.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\obj\Debug\net8.0\Stack-LinkedList-Algorithms.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\obj\Debug\net8.0\refint\Stack-LinkedList-Algorithms.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\obj\Debug\net8.0\Stack-LinkedList-Algorithms.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\obj\Debug\net8.0\Stack-LinkedList-Algorithms.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Exercises\Stack-LinkedList-Algorithms\obj\Debug\net8.0\ref\Stack-LinkedList-Algorithms.dll
