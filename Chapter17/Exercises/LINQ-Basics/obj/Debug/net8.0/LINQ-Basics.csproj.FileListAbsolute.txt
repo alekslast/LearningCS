@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\obj\Debug\net8.0\LINQ-Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\obj\Debug\net8.0\LINQ-Basics.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\obj\Debug\net8.0\LINQ-Basics.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\obj\Debug\net8.0\LINQ-Basics.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\obj\Debug\net8.0\LINQ-Basics.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\bin\Debug\net8.0\LINQ-Basics.exe
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\bin\Debug\net8.0\LINQ-Basics.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\bin\Debug\net8.0\LINQ-Basics.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\bin\Debug\net8.0\LINQ-Basics.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\bin\Debug\net8.0\LINQ-Basics.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\obj\Debug\net8.0\LINQ-Basics.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\obj\Debug\net8.0\refint\LINQ-Basics.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\obj\Debug\net8.0\LINQ-Basics.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\obj\Debug\net8.0\LINQ-Basics.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\LINQ-Basics\obj\Debug\net8.0\ref\LINQ-Basics.dll

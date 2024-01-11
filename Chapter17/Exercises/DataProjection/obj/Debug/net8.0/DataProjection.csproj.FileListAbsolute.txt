@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\bin\Debug\net8.0\DataProjection.exe
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\bin\Debug\net8.0\DataProjection.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\bin\Debug\net8.0\DataProjection.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\bin\Debug\net8.0\DataProjection.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\bin\Debug\net8.0\DataProjection.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\obj\Debug\net8.0\DataProjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\obj\Debug\net8.0\DataProjection.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\obj\Debug\net8.0\DataProjection.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\obj\Debug\net8.0\DataProjection.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\obj\Debug\net8.0\DataProjection.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\obj\Debug\net8.0\DataProjection.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\obj\Debug\net8.0\refint\DataProjection.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\obj\Debug\net8.0\DataProjection.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\obj\Debug\net8.0\DataProjection.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\DataProjection\obj\Debug\net8.0\ref\DataProjection.dll
