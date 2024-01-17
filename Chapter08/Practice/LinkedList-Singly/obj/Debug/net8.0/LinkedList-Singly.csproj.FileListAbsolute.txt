@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\obj\Debug\net8.0\LinkedList-Singly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\obj\Debug\net8.0\LinkedList-Singly.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\obj\Debug\net8.0\LinkedList-Singly.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\obj\Debug\net8.0\LinkedList-Singly.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\obj\Debug\net8.0\LinkedList-Singly.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\bin\Debug\net8.0\LinkedList-Singly.exe
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\bin\Debug\net8.0\LinkedList-Singly.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\bin\Debug\net8.0\LinkedList-Singly.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\bin\Debug\net8.0\LinkedList-Singly.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\bin\Debug\net8.0\LinkedList-Singly.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\obj\Debug\net8.0\LinkedList-Singly.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\obj\Debug\net8.0\refint\LinkedList-Singly.dll
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\obj\Debug\net8.0\LinkedList-Singly.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\obj\Debug\net8.0\LinkedList-Singly.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter08\Practice\LinkedList-Singly\obj\Debug\net8.0\ref\LinkedList-Singly.dll

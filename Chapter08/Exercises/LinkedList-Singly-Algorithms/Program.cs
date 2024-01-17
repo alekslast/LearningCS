@@ -28,7 +28,7 @@ public class LinkedList<T> : IEnumerable<T>
     }
 
 
-    public void Remove(T data)
+    public bool Remove(T data)
     {
         Node<T> current     = head;
         Node<T> previous    = null;
