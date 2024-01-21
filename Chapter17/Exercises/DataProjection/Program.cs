@@ -8,22 +8,22 @@
 
 #region Only select people's names
 
-    // Operators
-    var names = from p in people
-                select p.Name;
+    // // Operators
+    // var names = from p in people
+    //             select p.Name;
 
-    foreach(string name in names)
-        Console.WriteLine(name);
-
-
-    Console.WriteLine();
+    // foreach(string name in names)
+    //     Console.WriteLine(name);
 
 
-    // Methods
-    var otherNames = people.Select(persona => persona.Name);
+    // Console.WriteLine();
 
-    foreach (string name in otherNames)
-        Console.WriteLine(name);
+
+    // // Methods
+    // var otherNames = people.Select(persona => persona.Name);
+
+    // foreach (string name in otherNames)
+    //     Console.WriteLine(name);
 
 #endregion
 
@@ -31,30 +31,30 @@
 
 #region Create new object using LINQ
 
-    Console.WriteLine();
-    var personel =  from p in people
-                    select new
-                    {
-                        FirstName   = p.Name,
-                        Year        = DateTime.Now.Year - p.Age
-                    };
+    // Console.WriteLine();
+    // var personel =  from p in people
+    //                 select new
+    //                 {
+    //                     FirstName   = p.Name,
+    //                     Year        = DateTime.Now.Year - p.Age
+    //                 };
                 
-    foreach (var p in personel)
-        Console.WriteLine($"{p.FirstName} - {p.Year}");
+    // foreach (var p in personel)
+    //     Console.WriteLine($"{p.FirstName} - {p.Year}");
 
 
     
-    Console.WriteLine();
-    var personel1 = people.Select(persona => new
-    {
-        FirstName   = persona.Name,
-        Year        = DateTime.Now.Year - persona.Age
-    });
-    foreach (var person in personel1)
-    {
-        Console.WriteLine(person);
-        Console.WriteLine(person.GetType());
-    }
+    // Console.WriteLine();
+    // var personel1 = people.Select(persona => new
+    // {
+    //     FirstName   = persona.Name,
+    //     Year        = DateTime.Now.Year - persona.Age
+    // });
+    // foreach (var person in personel1)
+    // {
+    //     Console.WriteLine(person);
+    //     Console.WriteLine(person.GetType());
+    // }
 
 #endregion
 
@@ -62,19 +62,21 @@
 
 #region let Operator
 
+    // // Иногда возникает необходимость произвести в запросах LINQ какие-то дополнительные промежуточные вычисления.
+    // // Для этих целей мы можем задать в запросах свои переменные с помощью оператора let
 
-    var personel2 = from person in people
-                    let name = $"Your Majesty {person.Name}"
-                    let year = DateTime.Now.Year - person.Age
-                    select new
-                    {
-                        Name = name,
-                        Year = year
-                    };
+    // var personel2 = from person in people
+    //                 let name = $"Your Majesty {person.Name}"
+    //                 let year = DateTime.Now.Year - person.Age
+    //                 select new
+    //                 {
+    //                     Name = name,
+    //                     Year = year
+    //                 };
 
-    Console.WriteLine();
-    foreach (var p in personel2)
-        Console.WriteLine($"{p.Name} - {p.Year}");
+    // Console.WriteLine();
+    // foreach (var p in personel2)
+    //     Console.WriteLine($"{p.Name} - {p.Year}");
 
 
 #endregion
@@ -83,24 +85,28 @@
 
 #region Select from multiple sources
 
-    var courses = new List<string>() { "C#", "Java" };
-    var students = new List<string>() { "Tom", "Bob" };
+    // var courses = new List<string>() { "C#", "Java" };
+    // var students = new List<string>() { "Tom", "Bob" };
 
 
-    var enrollments =   from course in courses
-                        from student in students
-                        select new
-                        {
-                            Student = student,
-                            Course = course
-                        };
+    // var enrollments =   from course in courses
+    //                     from student in students
+    //                     select new
+    //                     {
+    //                         Student = student,
+    //                         Course = course
+    //                     };
 
-    Console.WriteLine();
-    foreach (var enrollment in enrollments)
-        Console.WriteLine(enrollment);
+    // Console.WriteLine();
+    // foreach (var enrollment in enrollments)
+    //     Console.WriteLine(enrollment);
 
 #endregion
 
+
+    
+
+#region SelectMany
 
     // Method
     var companies = new List<Company>
@@ -159,10 +165,6 @@
     Console.WriteLine();
     foreach (var employee in employees3)
         Console.WriteLine($"{employee.TheName} - {employee.TheCompany}");
-
-#region SelectMany
-
-    
 
 #endregion
 

@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\obj\Debug\net8.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\obj\Debug\net8.0\Sorting.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\obj\Debug\net8.0\Sorting.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\obj\Debug\net8.0\Sorting.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\obj\Debug\net8.0\Sorting.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\bin\Debug\net8.0\Sorting.exe
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\bin\Debug\net8.0\Sorting.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\bin\Debug\net8.0\Sorting.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\bin\Debug\net8.0\Sorting.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\bin\Debug\net8.0\Sorting.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\obj\Debug\net8.0\Sorting.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\obj\Debug\net8.0\refint\Sorting.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\obj\Debug\net8.0\Sorting.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\obj\Debug\net8.0\Sorting.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Sorting\obj\Debug\net8.0\ref\Sorting.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataProjection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19da59105782654739d3bd233495cf197950886d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c68dc1faff700dcf0dfebe4509026543aff45538")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataProjection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataProjection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\bin\Debug\net8.0\UnionIntersectDistinct.exe
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\bin\Debug\net8.0\UnionIntersectDistinct.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\bin\Debug\net8.0\UnionIntersectDistinct.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\bin\Debug\net8.0\UnionIntersectDistinct.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\bin\Debug\net8.0\UnionIntersectDistinct.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\obj\Debug\net8.0\UnionIntersectDistinct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\obj\Debug\net8.0\UnionIntersectDistinct.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\obj\Debug\net8.0\UnionIntersectDistinct.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\obj\Debug\net8.0\UnionIntersectDistinct.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\obj\Debug\net8.0\UnionIntersectDistinct.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\obj\Debug\net8.0\UnionIntersectDistinct.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\obj\Debug\net8.0\refint\UnionIntersectDistinct.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\obj\Debug\net8.0\UnionIntersectDistinct.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\obj\Debug\net8.0\UnionIntersectDistinct.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\UnionIntersectDistinct\obj\Debug\net8.0\ref\UnionIntersectDistinct.dll

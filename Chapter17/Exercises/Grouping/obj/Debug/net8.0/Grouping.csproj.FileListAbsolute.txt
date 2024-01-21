@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\obj\Debug\net8.0\Grouping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\obj\Debug\net8.0\Grouping.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\obj\Debug\net8.0\Grouping.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\obj\Debug\net8.0\Grouping.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\obj\Debug\net8.0\Grouping.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\bin\Debug\net8.0\Grouping.exe
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\bin\Debug\net8.0\Grouping.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\bin\Debug\net8.0\Grouping.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\bin\Debug\net8.0\Grouping.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\bin\Debug\net8.0\Grouping.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\obj\Debug\net8.0\Grouping.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\obj\Debug\net8.0\refint\Grouping.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\obj\Debug\net8.0\Grouping.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\obj\Debug\net8.0\Grouping.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Grouping\obj\Debug\net8.0\ref\Grouping.dll

@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\bin\Debug\net8.0\Join.exe
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\bin\Debug\net8.0\Join.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\bin\Debug\net8.0\Join.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\bin\Debug\net8.0\Join.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\bin\Debug\net8.0\Join.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\obj\Debug\net8.0\Join.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\obj\Debug\net8.0\Join.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\obj\Debug\net8.0\Join.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\obj\Debug\net8.0\Join.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\obj\Debug\net8.0\Join.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\obj\Debug\net8.0\Join.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\obj\Debug\net8.0\refint\Join.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\obj\Debug\net8.0\Join.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\obj\Debug\net8.0\Join.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Join\obj\Debug\net8.0\ref\Join.dll

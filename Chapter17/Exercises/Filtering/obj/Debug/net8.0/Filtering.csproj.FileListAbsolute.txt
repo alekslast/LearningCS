@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\obj\Debug\net8.0\Filtering.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\obj\Debug\net8.0\Filtering.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\obj\Debug\net8.0\Filtering.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\obj\Debug\net8.0\Filtering.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\obj\Debug\net8.0\Filtering.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\bin\Debug\net8.0\Filtering.exe
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\bin\Debug\net8.0\Filtering.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\bin\Debug\net8.0\Filtering.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\bin\Debug\net8.0\Filtering.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\bin\Debug\net8.0\Filtering.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\obj\Debug\net8.0\Filtering.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\obj\Debug\net8.0\refint\Filtering.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\obj\Debug\net8.0\Filtering.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\obj\Debug\net8.0\Filtering.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\Filtering\obj\Debug\net8.0\ref\Filtering.dll

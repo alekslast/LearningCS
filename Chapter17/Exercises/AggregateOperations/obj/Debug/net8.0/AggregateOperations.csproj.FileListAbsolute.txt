@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\obj\Debug\net8.0\AggregateOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\obj\Debug\net8.0\AggregateOperations.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\obj\Debug\net8.0\AggregateOperations.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\obj\Debug\net8.0\AggregateOperations.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\obj\Debug\net8.0\AggregateOperations.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\bin\Debug\net8.0\AggregateOperations.exe
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\bin\Debug\net8.0\AggregateOperations.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\bin\Debug\net8.0\AggregateOperations.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\bin\Debug\net8.0\AggregateOperations.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\bin\Debug\net8.0\AggregateOperations.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\obj\Debug\net8.0\AggregateOperations.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\obj\Debug\net8.0\refint\AggregateOperations.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\obj\Debug\net8.0\AggregateOperations.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\obj\Debug\net8.0\AggregateOperations.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\AggregateOperations\obj\Debug\net8.0\ref\AggregateOperations.dll

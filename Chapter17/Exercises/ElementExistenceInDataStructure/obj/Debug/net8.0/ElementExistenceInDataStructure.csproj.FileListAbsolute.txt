@@ -1,0 +1,15 @@
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\bin\Debug\net8.0\ElementExistenceInDataStructure.exe
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\bin\Debug\net8.0\ElementExistenceInDataStructure.deps.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\bin\Debug\net8.0\ElementExistenceInDataStructure.runtimeconfig.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\bin\Debug\net8.0\ElementExistenceInDataStructure.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\bin\Debug\net8.0\ElementExistenceInDataStructure.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\obj\Debug\net8.0\ElementExistenceInDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\obj\Debug\net8.0\ElementExistenceInDataStructure.AssemblyInfoInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\obj\Debug\net8.0\ElementExistenceInDataStructure.AssemblyInfo.cs
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\obj\Debug\net8.0\ElementExistenceInDataStructure.csproj.CoreCompileInputs.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\obj\Debug\net8.0\ElementExistenceInDataStructure.sourcelink.json
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\obj\Debug\net8.0\ElementExistenceInDataStructure.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\obj\Debug\net8.0\refint\ElementExistenceInDataStructure.dll
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\obj\Debug\net8.0\ElementExistenceInDataStructure.pdb
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\obj\Debug\net8.0\ElementExistenceInDataStructure.genruntimeconfig.cache
+D:\Development\CsharpProjects\LearningCS\Chapter17\Exercises\ElementExistenceInDataStructure\obj\Debug\net8.0\ref\ElementExistenceInDataStructure.dll
